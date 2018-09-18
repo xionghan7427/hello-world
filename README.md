@@ -1,2 +1,4 @@
 # hello-world
-my first git-hub repos
+Hi All,
+
+Han is here, I am learning how to use git-hub
